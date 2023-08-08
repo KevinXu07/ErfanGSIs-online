@@ -13,7 +13,7 @@ on:
 
     
 env:
-  ROM_URL: https://do6prasq.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/m2391/10.0.2.0/demo/20230329190409/969555af/update.zip?xyip=112.65.29.39&xyct=158&xy_nosvr=true&xy_usource=download-xys.meizu.com&xy_rid=*1Oz19wi*Tq2R4&xy_oid=43158&xy_nc=2NvfI1==
+  ROM_URL: https://mgk2viv9a0eijcdtgl3j1f8sa3q5kcv106omq1m461lb5g7t0c1fu40e.qc.dolfincdnx.net:15363/xdispatch7b84d6387c848a69/bigota.d.miui.com/V14.0.6.0.TMYCNXM/miui_LIUQIN_V14.0.6.0.TMYCNXM_1115cab432_13.0.zip?bsreqid=c1e44dd18ed09365649128c793714d33
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
